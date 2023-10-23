@@ -291,6 +291,8 @@ section {
 }
 
 .arrow {
+  width: 40px;
+  height: 40px;
   position: absolute;
   right: -5rem;
   bottom: 2.5rem;
@@ -368,9 +370,12 @@ article .icon {
 }
 
 .project-img1 {
-  border-radius: 2rem;
-  width: 500px;
-  height: 90%;
+  width: 504px;
+  height: 263px;
+}
+.project-img3{
+  width: 504px;
+  height: 263px;
 }
 .project-img {
   border-radius: 2rem;
